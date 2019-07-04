@@ -10,7 +10,6 @@ public class enums : MonoBehaviour
         Life,
         Laser,
         Blaster,
-        yio,
         HomingMissile
     }
 }
