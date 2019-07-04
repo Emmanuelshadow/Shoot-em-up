@@ -109,4 +109,6 @@ public class bulletExplosive : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, rad);
     }
+
+    //commentaire pour te montrer les modifications sur github
 }
